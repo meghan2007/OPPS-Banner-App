@@ -1,0 +1,13 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# IDE folders (if used later)
+.vscode/
+.idea/
